@@ -1,0 +1,32 @@
+﻿body {
+}
+
+.person-header{
+    margin-top: 0px;
+}
+
+.person-container {
+    border-width: 5px;
+    border-radius: 25px;
+    border-color: #a91352;
+    background: #333333;
+    display: inline-block;
+}
+
+.person-header-container {
+    padding-left: 25px;
+    padding-right: 25px;
+    border-radius: 25px 25px 0px 0px;
+    background: #a91352;
+}
+
+.person-body-container {
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-bottom: 15px;
+    background: #333333;
+    border-radius: 0px 0px 25px 25px;
+}
+.person-font {
+    color: white;
+}
